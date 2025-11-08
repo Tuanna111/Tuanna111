@@ -19,8 +19,5 @@ Meus projetos unem eficiência técnica e propósito, com foco em transformaçã
 ## Interesses
 `Python` • `FastAPI` • `Power BI` • `SQL` • `UX Design` • `Big Data` • `Machine Learning`
 
-## 📊 Estatísticas
-![Tuanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuanna111&show_icons=true&theme=tokyonight)
-
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanna-moreira/)
